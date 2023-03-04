@@ -1,0 +1,8 @@
+extends: substitution
+message: "Did you mean '%s' instead of '%s'?"
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  casual: causal

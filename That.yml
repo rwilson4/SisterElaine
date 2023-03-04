@@ -1,0 +1,7 @@
+extends: existence
+message: "Avoid 'that'."
+level: warning
+ignorecase: true
+
+tokens:
+  - that

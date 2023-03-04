@@ -1,0 +1,8 @@
+extends: substitution
+message: "Avoid 'significant' except when referring to statistical significance."
+level: warning
+ignorecase: true
+swap:
+  '(?:[^\s]*) significant': statistically significant
+  '(?:[^\s]*) significantly': statistically significantly
+  '(?:[^\s]*) significance': statistical significance

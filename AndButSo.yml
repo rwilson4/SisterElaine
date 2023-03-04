@@ -1,0 +1,11 @@
+extends: existence
+message: "Do not start a sentence with '%s'."
+level: error
+scope: sentence
+ignorecase: false
+action:
+  name: remove
+tokens:
+  - And
+  - But
+  - So

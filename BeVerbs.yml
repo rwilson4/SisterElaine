@@ -1,0 +1,15 @@
+extends: existence
+message: "Avoid 'be' verbs."
+level: warning
+ignorecase: true
+
+tokens:
+  - be
+  - am
+  - are
+  - is
+  - was
+  - were
+  - will
+  - been
+  - being

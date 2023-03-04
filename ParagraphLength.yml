@@ -1,0 +1,6 @@
+extends: occurrence
+message: "Try to keep paragraphs short (< 120 words)."
+scope: paragraph
+level: warning
+max: 120
+token: \b(\w+)\b

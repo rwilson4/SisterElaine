@@ -1,0 +1,8 @@
+extends: existence
+message: "Avoid '%s'."
+ignorecase: true
+level: warning
+tokens:
+  - clearly
+  - obviously
+  - of course

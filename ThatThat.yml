@@ -1,0 +1,7 @@
+extends: existence
+message: "Don't say 'that that'."
+level: error
+ignorecase: true
+
+tokens:
+  - that that

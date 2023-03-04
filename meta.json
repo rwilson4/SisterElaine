@@ -1,0 +1,15 @@
+{
+  "author": "Bob Wilson",
+  "description": "Rules inspired by my high school English teacher, Sr. Elaine Freund.",
+  "email": "bob@convexanalytics.com",
+  "lang": "en",
+  "url": "https://github.com/rwilson4/SisterElaine",
+  "feed": "",
+  "issues": "https://github.com/rwilson4/SisterElaine",
+  "license": "MIT",
+  "name": "SisterElaine",
+  "sources": [],
+  "vale_version": ">=1.0.0",
+  "coverage": 0.0,
+  "version": "0.1.0"
+}
